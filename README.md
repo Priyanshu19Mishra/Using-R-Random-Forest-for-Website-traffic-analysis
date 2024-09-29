@@ -8,3 +8,4 @@ Most often it's not used in the time series analysis, but here I have experiment
 This repository shows the application of time series analysis. Time series analysis is one of the most prominent task performed in the world of ML.
 Time series analysis is used in most of the time under the web-development. One such example is the website traffic forecasting. Usingthis application 
 one can predict the load on a particular website as per the user request that one encounters.
+A R file has been shared in the in repository that shows the implementation of the project.
