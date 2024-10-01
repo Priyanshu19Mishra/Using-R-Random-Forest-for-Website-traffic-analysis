@@ -9,4 +9,5 @@ This repository shows the application of time series analysis. Time series analy
 Time series analysis is used in most of the time under the web-development. One such example is the website traffic forecasting. Using this application 
 one can predict the load on a particular website as per the user request that one encounters.
 A R file has been shared in the in repository that shows the implementation of the project. All the visual on the working of the model of the project has been
-added and shown in the R file file which shows the implementation protion. 
+added and shown in the R file file which shows the implementation protion. The model is so much linear in nature. The outputs and performance has been shared 
+through the visuals in the repository. 
