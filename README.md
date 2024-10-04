@@ -12,4 +12,6 @@ A R file has been shared in the in repository that shows the implementation of t
 added and shown in the R file file which shows the implementation protion. The model is so much linear in nature. The outputs and performance has been shared 
 through the visuals in the repository. 
 The graphs and the images of the dataset has been shared in the repository. Its too highly scalable project. An attempt to use Random forest that uses decision 
-trees
+trees is highly pasionate. 
+
+To run the repo, use the R file in an R supporting IDE, and install the necessary header file. 
