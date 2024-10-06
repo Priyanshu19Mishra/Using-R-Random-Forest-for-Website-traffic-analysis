@@ -14,4 +14,5 @@ through the visuals in the repository.
 The graphs and the images of the dataset has been shared in the repository. Its too highly scalable project. An attempt to use Random forest that uses decision 
 trees is highly pasionate. 
 
-To run the repo, use the R file in an R supporting IDE, and install the necessary header file. 
+To run the repo, use the R file in an R supporting IDE, and install the necessary header file. I have implemented this using Google Colab. Google Colab is one such prominent
+platform that is very much used and appropriate for ML taks.
