@@ -15,4 +15,4 @@ The graphs and the images of the dataset has been shared in the repository. Its 
 trees is highly pasionate. 
 
 To run the repo, use the R file in an R supporting IDE, and install the necessary header file. I have implemented this using Google Colab. Google Colab is one such prominent
-platform that is very much used and appropriate for ML taks.
+platform that is very much used and appropriate for ML task.
