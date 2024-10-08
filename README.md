@@ -18,4 +18,5 @@ To run the repo, use the R file in an R supporting IDE, and install the necessar
 platform that is very much used and appropriate for ML task.
 All the other details has been  uploaded along with the plots and accuracy matrices. These matrices accurately analyses the model performance. All the images of the model 
 performance has been uploaded in this particular repository.
-These are the performance matrices that explains in detail the working and the training of the model in vast detail. 
+These are the performance matrices that explains in detail the working and the training of the model in vast detail. This project holds a deep future scope in every way in respect 
+to the architecture and the performance.
