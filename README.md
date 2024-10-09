@@ -10,6 +10,12 @@ Prediction: For website traffic, Random Forest can predict continuous values (e.
 
 Random forest is the collection of many decision trees. It's one of the most prominent algorithm that workks to find the relationship between the data in the dataset.
 Most often it's not used in the time series analysis, but here I have experimented it over this task. And the results were outstanding at the output end.
+
+Advantages of Random Forest in Website Traffic Forecasting:
+Handles Non-linear Relationships: Website traffic often follows complex patterns due to factors like seasonality, holidays, or events. Random Forest can capture non-linear dependencies between time-related features and traffic.
+Robustness Against Overfitting: Since Random Forest averages the predictions from multiple trees, it prevents overfitting compared to a single decision tree model.
+Feature Importance: Random Forest can provide insights into which features (e.g., time of day, lagged traffic data) are most important for accurate forecasting.
+
 This repository shows the application of time series analysis. Time series analysis is one of the most prominent task performed in the world of ML.
 Time series analysis is used in most of the time under the web-development. One such example is the website traffic forecasting. Using this application 
 one can predict the load on a particular website as per the user request that one encounters.
