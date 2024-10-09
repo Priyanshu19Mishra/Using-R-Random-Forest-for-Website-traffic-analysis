@@ -1,11 +1,14 @@
 # Using-R-Random-Forest-for-Website-traffic-analysis
 
-This is one of the ML implementation using another powerful language other than pyhton.
-This time we will be working with R language using IDE suitable for R language.
-In this ML project, I have worked with a powerful algorithm that is "Random Forest". Random Forest is a powerful machine learning algorithm often used in website traffic forecasting due to its ability to handle both regression and classification problems, its flexibility with high-dimensional data, and its robustness against overfitting.
+This is one of the ML implementation using another powerful language other than pyhton. This time we will be working with R language using IDE suitable for R language.In this ML project, I have worked with a powerful algorithm that is "Random Forest". 
+
+Random Forest is a powerful machine learning algorithm often used in website traffic forecasting due to its ability to handle both regression and classification problems, its flexibility with high-dimensional data, and its robustness against overfitting.
 Random Forest is an ensemble learning method that builds multiple decision trees during training and merges their outputs to make more accurate predictions. In the context of website traffic forecasting, it can help predict the number of visitors or sessions based on various time-based features.
-Random forest is the collection of 
-many decision trees. It's one of the most prominent algorithm that workks to find the relationship between the data in the dataset.
+Data Preprocessing: The data often includes features like time of the day, day of the week, month, or lag variables (e.g., previous traffic or session data). These features must be carefully prepared and cleaned for better accuracy.
+Model Training: Random Forest trains multiple decision trees on different subsets of the data. Each tree makes a prediction, and the final forecast is derived by averaging the results of all trees.
+Prediction: For website traffic, Random Forest can predict continuous values (e.g., number of visits) based on the learned patterns in past traffic data.
+
+Random forest is the collection of many decision trees. It's one of the most prominent algorithm that workks to find the relationship between the data in the dataset.
 Most often it's not used in the time series analysis, but here I have experimented it over this task. And the results were outstanding at the output end.
 This repository shows the application of time series analysis. Time series analysis is one of the most prominent task performed in the world of ML.
 Time series analysis is used in most of the time under the web-development. One such example is the website traffic forecasting. Using this application 
