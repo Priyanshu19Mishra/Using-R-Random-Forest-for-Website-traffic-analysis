@@ -16,6 +16,10 @@ Handles Non-linear Relationships: Website traffic often follows complex patterns
 Robustness Against Overfitting: Since Random Forest averages the predictions from multiple trees, it prevents overfitting compared to a single decision tree model.
 Feature Importance: Random Forest can provide insights into which features (e.g., time of day, lagged traffic data) are most important for accurate forecasting.
 
+Limitations:
+Model Complexity: Random Forest is more computationally intensive than simpler models like linear regression, which may be an issue with very large datasets or real-time forecasting.
+Interpretability: While it offers high accuracy, understanding the decision-making process of a Random Forest can be challenging compared to more interpretable models.
+
 This repository shows the application of time series analysis. Time series analysis is one of the most prominent task performed in the world of ML.
 Time series analysis is used in most of the time under the web-development. One such example is the website traffic forecasting. Using this application 
 one can predict the load on a particular website as per the user request that one encounters.
