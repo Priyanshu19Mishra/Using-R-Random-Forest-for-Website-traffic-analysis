@@ -35,3 +35,5 @@ All the other details has been  uploaded along with the plots and accuracy matri
 performance has been uploaded in this particular repository.
 These are the performance matrices that explains in detail the working and the training of the model in vast detail. This project holds a deep future scope in every way in respect 
 to the architecture and the performance.
+
+2.png shows the first week traffic that the website has encountered. 
