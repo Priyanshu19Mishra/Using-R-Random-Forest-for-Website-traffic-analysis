@@ -36,4 +36,4 @@ performance has been uploaded in this particular repository.
 These are the performance matrices that explains in detail the working and the training of the model in vast detail. This project holds a deep future scope in every way in respect 
 to the architecture and the performance.
 
-2.png shows the first week traffic that the website has encountered. 
+2.png shows the first week traffic that the website has encountered. Similar to this, 3.png shows the distribution curve of the dataset.
