@@ -37,4 +37,4 @@ These are the performance matrices that explains in detail the working and the t
 to the architecture and the performance.
 
 2.png shows the first week traffic that the website has encountered. Similar to this, 3.png shows the distribution curve of the dataset. 4.pmg shows the boxplot that has been created and plotted over the dataset.
-5.png is the scatter plot over the dataset. All these different plots shows different pattern in the sessionality and the trends over the website traffic. 
+5.png is the scatter plot over the dataset. All these different plots shows different pattern in the sessionality and the trends over the website traffic. In such task these visualiations are very important.
